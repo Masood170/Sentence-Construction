@@ -1,5 +1,7 @@
 # Sentence-Construction
 
+Deployment link : https://resilient-jalebi-c5f9ba.netlify.app
+
 Fill in the Blanks Quiz App
 Features
 Show a question with a missing word.
